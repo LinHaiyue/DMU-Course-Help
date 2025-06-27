@@ -8,6 +8,6 @@
   - 1.考了多层感知机
   - 2.考了数据去噪技术
   - 3.考了lstm，还得画出来
-  - 4.考了transformer的embed，就是encoder架构，还得画出来
+  - 4.考了transformer的embedding，就是encoder架构，还得画出来
   - 5.考了注意力机制attention
   - 6.其他的忘了,考了很多简答和问答，对于有一定DL基础的很简单
