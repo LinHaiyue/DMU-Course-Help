@@ -1,7 +1,9 @@
 # 大连海事大学课程攻略
 
+[![](https://img.shields.io/github/watchers/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/watchers)
+[![](https://img.shields.io/github/stars/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-HelpT/stargazers)
 [![stargazers](https://img.shields.io/github/stars/Chi-Kai/DMU-cs-course.svg?style=for-the-badge)](https://github.com/Chi-Kai/DMU-cs-course/stargazers)
-[![contributors](https://img.shields.io/github/forks/Chi-Kai/DMU-cs-course.svg?style=for-the-badge)](https://github.com/Chi-Kai/DMU-cs-course/network/members)
+[![contributors](https://img.shields.io/github/forks/Chi-Kai/DMU-Course-Help.svg?style=for-the-badge)](https://github.com/Chi-Kai/DMU-cs-course/network/members)
 [![pulls](https://img.shields.io/github/issues-pr-closed-raw/Chi-Kai/DMU-cs-course.svg?style=for-the-badge)](https://github.com/Chi-Kai/DMU-cs-course/pulls)
 ![size](https://img.shields.io/github/repo-size/Chi-Kai/DMU-cs-course.svg?style=for-the-badge)
 
